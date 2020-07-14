@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/icon_retorno"
+        android:icon="@drawable/ic_retorno"
+        android:title="Edit Done"
+        app:showAsAction="always">
+
+    </item>
+    <item android:id="@+id/icon_save"
+        android:icon="@drawable/ic_save"
+        android:title="Edit Done"
+        app:showAsAction="always">
+    </item>
+    <item android:id="@+id/icon_delete"
+        android:icon="@drawable/ic_salir"
+        android:title="Edit Done"
+        app:showAsAction="always">
+    </item>
+    <item android:id="@+id/icon_update"
+        android:icon="@drawable/ic_update"
+        android:title="Edit Done"
+        app:showAsAction="always">
+    </item>
+    <item android:id="@+id/icon_find"
+        android:icon="@drawable/ic_find"
+        android:title="Edit Done"
+        app:showAsAction="always">
+    </item>
+
+</menu>

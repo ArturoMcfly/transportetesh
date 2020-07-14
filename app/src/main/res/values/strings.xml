@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mexitransit</string>
+    <string name="app_Inicio">Inicio de sesion</string>
+    <string name="app_Registro">Registrar</string>
+    <string name="app_Rutas">Rutas</string>
+    <string name="app_Cerrar">Cerrar sesion</string>
+    <string name="title_activity_rutas_mapa">Map</string>
+    <string name="historial">Historial</string>
+    <string name="registrar">Registrar</string>
+    <string name="title_activity_maps1">Map</string>
+    <string name="Gest_rutas">Gestionar rutas</string>
+    <string name="Gest_usuarios">Gestionar usuarios</string>
+    <string name="Gest_paradas">Gestionar paradas</string>
+</resources>
